@@ -1,5 +1,7 @@
 # html-basics1-ic
 
+### Note: For all problems use the following tags: a, h1, h3, p, strong, em. For CSS use at least one tag, class, and id selector
+
 ### Problem 1
 Create a site about your favorite sports team with an h1 tag and a sentence with a paragraph tag telling people about your favorite team. Link a css page to change the color of the sentence to blue.
 
